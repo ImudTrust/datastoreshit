@@ -11,9 +11,9 @@
     ],
 
       "Admins": [
-        { "Name": "ImudTrust", "UserID": "16EA7E15CC0068C0" },
+        { "Name": "imudtrust", "UserID": "16EA7E15CC0068C0" },
         { "Name": "ddarkk", "UserID": "4DDC2E422253C093" },
-        { "Name": "ImudTrust2", "UserID": "16EF93304099BACD" }
+        { "Name": "imudtrust2", "UserID": "16EF93304099BACD" }
     ],
 
     "Mod Specific Admins": [
@@ -21,14 +21,14 @@
             { "Name": "Player Name", "UserID": "Player UserID", "Super Admin": "'True' or 'False'" }
         ] },
         { "Console Name": "axo_console", "Admins": [
-            { "Name": "ImudTrust", "UserID": "16EA7E15CC0068C0", "Super Admin": "True" },
+            { "Name": "imudtrust", "UserID": "16EA7E15CC0068C0", "Super Admin": "True" },
             { "Name": "ddarkk", "UserID": "4DDC2E422253C093", "Super Admin": "True" },
-            { "Name": "ImudTrust2", "UserID": "16EF93304099BACD", "Super Admin": "True" }
+            { "Name": "imudtrust2", "UserID": "16EF93304099BACD", "Super Admin": "True" }
         ] }
     ],
 
     "Super Admins": [
-        "ImudTrust",
+        "imudtrust",
         "ddarkk",
         "ImudTrust2"
     ],
