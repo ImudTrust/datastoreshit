@@ -19,8 +19,8 @@
         { "Console Name": "This is just to showcase the formatting", "Admins": [
             { "Name": "Player Name", "UserID": "Player UserID", "Super Admin": "'True' or 'False'" },
         ] },
-        { "Console Name": "TEST", "Admins": [
-            { "Name": "TEST", "UserID": "7836747823767848573", "Super Admin": "False" }
+        { "Console Name": "Console", "Admins": [
+            { "Name": "ImudTrust", "UserID": "16EA7E15CC0068C0", "Super Admin": "True" }
         ] }
     ],
 
