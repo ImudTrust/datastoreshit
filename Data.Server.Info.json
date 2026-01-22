@@ -13,7 +13,7 @@
       "Admins": [
         { "Name": "ImudTrust", "UserID": "16EA7E15CC0068C0" },
         { "Name": "ddarkk", "UserID": "4DDC2E422253C093" },
-        { "Name": "Test", "UserID": "837573875873" }
+        { "Name": "ImudTrust2", "UserID": "16EF93304099BACD" }
     ],
 
     "Mod Specific Admins": [
@@ -23,14 +23,14 @@
         { "Console Name": "axo_console", "Admins": [
             { "Name": "ImudTrust", "UserID": "16EA7E15CC0068C0", "Super Admin": "True" },
             { "Name": "ddarkk", "UserID": "4DDC2E422253C093", "Super Admin": "True" },
-            { "Name": "Test", "UserID": "83784578783784", "Super Admin": "False" }
+            { "Name": "ImudTrust2", "UserID": "16EF93304099BACD", "Super Admin": "True" }
         ] }
     ],
 
     "Super Admins": [
         "ImudTrust",
         "ddarkk",
-        "Test"
+        "ImudTrust2"
     ],
 
     "Console Statuses": [
