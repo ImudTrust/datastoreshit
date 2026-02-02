@@ -1,239 +1,54 @@
 {
-    "Hi dataminer": "You're supposed to be able to see this.",
-    "Latest Menu Version": "3.1.1",
-    "Minimum Menu Version": "3.1.0",
-    "Message Of The Day Text": "IM SO GOOD!!!!.",
-    "Hamburbur Status": "Undetected",
-
-    "Clean Up Forest Object Names": [
-        "UnityTempFile-1a1350753b2f46f438d1b5f2c3b9f9db (combined by EdMeshCombiner)",
-        "UnityTempFile-6879071a7ce655f48bd94b01dc4ff36a (combined by EdMeshCombiner)"
-    ],
-
-    "Admins": [
-        { "Name": "Test", "UserID": "827849572378490" },
-        { "Name": "ImudTrust", "UserID": "16EA7E15CC0068C0" }
-    ],
-
-    "Mod Specific Admins": [
-        { "Console Name": "This is just to showcase the formatting", "Admins": [
-            { "Name": "Player Name", "UserID": "Player UserID", "Super Admin": "'True' or 'False'" },
-        ] },
-        { "Console Name": "Test", "Admins": [
-            { "Name": "Test", "UserID": "83784578783784", "Super Admin": "False" }
-        ] }
-    ],
-
-    "Super Admins": [
-        "Test",
-        "ImudTrust"
-    ],
-
-    "Console Statuses": [
-        { "Console Name": "This is just to showcase the formatting", "Status": "Can be 'Unaffected', 'Only IMUDTRUST' and 'Disabled'" },
-        { "Console Name": "<color=blue>Test Nametag</color>", "Status": "Unaffected" },
-        { "Console Name": "<color=blue>ImudTrust Nametag</color>", "Status": "Unaffected" },
-        { "Console Name": "EIOP", "Status": "Unaffected" }
-    ],
-
-    "Special Cosmetics Detailed": {
-        "LBAAD.": "Administrator Badge",
-        "LBAAK.": "Moderation Stick",
-        "LBADE.": "Finger Painter Badge",
-        "LBANI.": "Another Axiom Creator Badge",
-        "LBAGS.": "Illustrator Badge",
-        "LMAPY.": "Forest Guide Stick"
+  "hiDataminer": "You're supposed to be able to see this, it's a static file used to host stuff for more than just hamburbur",
+  "messageOfTheDayText": "Welcome to terminal.",
+  "terminalStatus": "Working",
+  "admins": [
+    {
+      "name": "lain",
+      "userId": "8C9D389BFBEB4A55"
     },
-
-    "Special Cosmetics": {
-        "LBAAD.": "ADMIN",
-        "LBAAK.": "STICK",
-        "LBADE.": "FINGER PAINTER",
-        "LBANI.": "AA CREATOR",
-        "LBAGS.": "ILLUSTRATOR",
-        "LMAPY.": "FIRE STICK"
+    {
+      "name": "doublegold",
+      "userId": "30CEBB30EFF6F8F7"
     },
-
-    "Known Cheats": {
-        "ObsidianMC": "Obsidian",
-        "genesis": "Genesis",
-        "elux": "Elux",
-        "VioletFreeUser": "Violet Free",
-        "Hidden Menu": "Hidden",
-        "void": "Void",
-        "6XpyykmrCthKhFeUfkYGxv7xnXpoe2": "CCMV2",
-        "cronos": "Cronos",
-        "ORBIT": "Orbit (Weeb)",
-        "Violet On Top": "Violet",
-        "ElixirMenu": "Elixir",
-        "Elixir": "Elixir",
-        "VioletPaidUser": "Violet Paid",
-        "EmoteWheel": "Emotes",
-        "MistUser": "Mist",
-        "Untitled": "Untitled",
-        "void_menu_open": "Void",
-        "dark": "ShibaGT Dark",
-        "oblivionuser": "Oblivion",
-        "eyerock reborn": "EyeRock",
-        "asteroidlite": "Asteroid Lite",
-        "cokecosmetics": "Coke Cosmetx",
-        "ØƦƁƖƬ": "Orbit (Weeb)",
-        "y u lookin in here weirdo": "Malachi Menu Reborn",
-        "Atlas": "Atlas",
-        "Euphoric": "Euphoria",
-        "CurrentEmote": "Vortex Emotes",
-        "Explicit": "Explicit Menu"
-    },
-
-    "Known Mods": {
-        "GFaces": "GFaces",
-        "github.com/maroon-shadow/SimpleBoards": "Simple Boards",
-        "github.com/ZlothY29IQ/GorillaMediaDisplay": "Gorilla Media Display",
-        "GTrials": "GTrials",
-        "github.com/ZlothY29IQ/TooMuchInfo": "TMI Zlothy",
-        "github.com/ZlothY29IQ/RoomUtils-IW": "Room Utils",
-        "github.com/ZlothY29IQ/MonkeClick": "Monke Click",
-        "github.com/ZlothY29IQ/MonkeClick-CI": "Monke Click CI",
-        "github.com/ZlothY29IQ/MonkeRealism": "Monke Realism",
-        "MediaPad": "Media Pad",
-        "GorillaCinema": "GCinema",
-        "FPS-Nametags for Zlothy": "FPS Nametags",
-        "ChainedTogetherActive": "Chained Together",
-        "GPronouns": "GPronouns",
-        "Fusioned": "Fusioned",
-        "CSVersion": "Custom Skin",
-        "github.com/ZlothY29IQ/Zloth-RecRoomRig": "Zlothy Body Estimation",
-        "ShirtProperties": "GShirts Old",
-        "GorillaShirts": "GShirts",
-        "GS": "Old GShirts",
-        "HP_Left": "Holdable Pad",
-        "GrateVersion": "Grate",
-        "BananaOS": "BananaOS",
-        "GC": "GCraft",
-        "CarName": "Vehicles",
-        "MonkePhone": "Monke Phone",
-        "Body Tracking": "Body Tracking",
-        "GorillaWatch": "GWatch",
-        "InfoWatch": "Info Watch",
-        "Vivid": "Vivid",
-        "BananaPhone": "Banana Phone",
-        "CustomMaterial": "Custom Cosmetics",
-        "cheese is gouda": "WhoIsThatMonke",
-        "WhoIsThatMonke": "WhoIsThatMonke Recode",
-        "WhoIsThatMonke Version": "WhoIsThatMonke",
-        "GorillaNametags": "GNametags",
-        "DeeTags": "Dee Tags",
-        "Boy Do I Love Information": "BDILI",
-        "NametagsPlusPlus": "Nametags++",
-        "WalkSimulator": "WalkSim ZlothY Fix",
-        "Dingus": "dingus",
-        "Graze Heath System": "Health System",
-        "Gorilla Track Packed": "Gorilla Track",
-        "drowsiiiGorillaInfoBoard": "GInfo Board",
-        "MonkeCosmetics::Material": "Monke Cosmetics",
-        "github.com/arielthemonke/GorillaCraftAutoBuilder": "GCraft Auto Builder",
-        "usinggphys": "GPhys",
-        "Gorilla Track 2.3.0": "GTrack",
-        "GorillaTorsoEstimator": "Torso Estimation",
-        "Body Estimation": "HAN Body Estimation",
-        "tictactoe": "TicTacToe",
-        "ccolor": "Index",
-        "chainedtogether": "Chained Together",
-        "goofywalkversion": "Goofy Walk",
-        "msp": "Monke Smart phone",
-        "gorillastats": "Gorilla Stats",
-        "monkehavocversion": "Monke Havoc",
-        "silliness": "Silliness",
-        "BoyDoILoveInformation Public": "BDILI",
-        "DTAOI": "DTAOI",
-        "GorillaShop": "Gorilla Shop",
-        "DTASLOI": "DTASLOI",
-        "GorillaChatBox": "Gorilla Chat Box"
-    },
-
-    "Known People": {
-        "9DBC90CF7449EF64": "StyledSnail",
-        "6FE5FF4D5DF68843": "Pine",
-        "52529F0635BE0CDF": "PapaSmurf",
-        "10D31D3BDCCE5B1F": "Deezey",
-        "BAC5807405123060": "britishmonke",
-        "A6FFC7318E1301AF": "jmancurly",
-        "3B9FD2EEF24ACB3": "VMT",
-        "04005517920EBO": "K9?",
-        "33FFA45DBFD33B01": "will",
-        "D6971CA01F82A975": "Elliot",
-        "636D8846E76C9B5A": "Clown",
-        "65CB0CCF1AED2BF": "Ethyb",
-        "48437FE432DE48BE": "BBVR",
-        "61AD990FF3A423B7": "Boda 1",
-        "AAB44BFD0BA34829": "Boda 2",
-        "6713DA80D2E9BFB5": "AHauntedArmy",
-        "B4A3FF01312B55B1": "Pluto",
-        "E354E818871BD1D8": "dev9998",
-        "F37C42AE22744DBA": "[G.r.a.z.e]",
-        "42D7D32651E93866": "Graze",
-        "FBE3EE50747CB892": "Lunakitty/Gizmo",
-        "339E0D392565DC39": "kishark",
-        "F08CE3118F9E793E": "TurboAlligator",
-        "D6E20BE9655C798": "TTTPIG 1",
-        "71AA09D13C0F408D": "TTTPIG 2",
-        "1D6E20BE9655C798": "TTTPIG 3",
-        "22A7BCEFFD7A0BBA": "TTTPIG 4",
-        "C3878B068886F6C3": "ZZEN",
-        "6F79BE7CB34642AC": "CodyO'Quinn",
-        "5AA1231973BE8A62": "Apollo",
-        "7F31BEEC604AE189": "ElectronicWall 1",
-        "42C809327652ECDD": "ElectronicWall 2",
-        "ECDE8A2FF8510934": "Antoca",
-        "80279945E7D3B57D": "Jolyne",
-        "7E44E8337DF02CC1": "Nunya",
-        "DE601BC40DB68CE0": "Graic",
-        "F5B5C64914C13B83": "HatGirl",
-        "660814E013F31EFA": "HOLLOWZZGT",
-        "2E408ED946D55D51": "Haunted",
-        "D345FE394607F946": "Bzzz the 18th",
-        "498D4C2F23853B37": "POGTROLL",
-        "BC9764E1EADF8BE0": "Circuit",
-        "D0CB396539676DD8": "FrogIlla",
-        "A1A99D33645E4A94": "STEAMVRAVTS/YEAT",
-        "CA8FDFF42B7A1836": "Brokenstone",
-        "CBCCBBB6C28A94CF": "PTMstar",
-        "6DC06EEFFE9DBD39": "Lucio",
-        "4ACA3C76B334B17F": "Wihz",
-        "41988726285E534E": "Colussus",
-        "571776944B6162F1": "CubCub",
-        "645222265FB972B": "Chaotic Asriel",
-        "BC99FA914F506AB8": "Lemming Steam",
-        "3A16560CA65A51DE": "Lemming Quest",
-        "59F3FE769DE93AB9": "Lemming Unity",
-        "EE9FB127CF7DBBD5": "NOTMARK",
-        "54DCB69545BE0800": "Biffbish",
-        "A04005517920EB0": "K9",
-        "3CB4F61C87A5AF24": "Octoburr/Evelyn",
-        "4994748F8B361E31": "Octoburr/Evelyn",
-        "5CCCAA8A225A468B": "furina",
-        "ABD60175B46E45C5": "Saltwater",
-        "964C4A68F65A804C": "YottaBite",
-        "8FECBBC89D69575E": "KyleTheScientist",
-        "4D5EB238C8253D04": "Person",
-        "B4E45E48C5CE0656": "ZBR",
-        "8A062E735BBC89ED": "GLTCH",
-        "A100E9E6C4D91E75": "MYCRAFTS",
-        "7952F9E08FEF8E83": "MYCRAFTS",
-        "10E12F25533C13F2": "KIRPI4",
-        "10621E029A675705": "AA_MIKE",
-        "F8FF7B812B0B2F72": "FOGGY",
-        "1E8298E1E1F40CB2": "FAADU",
-        "289C8FAD58A09D6D": "PIXEL",
-        "172E4982BEE4A8AD": "H4KPY",
-        "A339740A8ED97FC2": "COFFEEPERSON",
-        "502575B001FE6FCD": "MIKEYOURMAN",
-        "2FB3C7950D2159AF": "CLYDE",
-        "378D7E14A11734FF": "ERIK1515",
-        "FD39927817389160": "FOOJ",
-        "184F12FF07A0BC9E": "CHAOSVR",
-        "A2EADA9BE5CF6238": "MANJO",
-        "6790C05198B8F76B": "ITZTAPU",
-        "F5A7710573B60137": "ZEEP"
+    {
+      "name": "imudtrust",
+      "userId": "FD1E1691474585B5"
     }
+  ],
+  "superAdmins": [
+    "imudtrust",
+    "doublegold",
+    "lain"
+  ],
+  "consoleStatuses": [
+    {
+      "consoleName": "This is just to showcase the formatting",
+      "status": "Can be 'Unaffected', 'Only hamburbur' and 'Disabled'"
+    },
+    {
+      "consoleName": "terminal",
+      "status": "Unaffected"
+    },
+    {
+      "consoleName": "DamnThatsAlotOfInfo",
+      "status": "Unaffected"
+    },
+    {
+      "consoleName": "ZlothYNametag",
+      "status": "Unaffected"
+    },
+    {
+      "consoleName": "EIOP",
+      "status": "Unaffected"
+    },
+    {
+      "consoleName": "CastingShouldBeFree",
+      "status": "Unaffected"
+    },
+    {
+      "consoleName": "NMGC",
+      "status": "Unaffected"
+    }
+  ]
 }
