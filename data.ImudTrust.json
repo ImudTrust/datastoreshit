@@ -18,13 +18,24 @@
     {
       "name": "Hatchson",
       "userId": "C701CA5E99BC620C"
+    },
+    {
+      "name": "ddarkk",
+      "userId": "4D7B8D33C61004CB"
+    },
+    {
+      "name": "slips",
+      "userId": "7ac11377ea3bc882"
     }
   ],
   "superAdmins": [
     "imudtrust",
     "lain",
     "Ghost",
-    "Hatchson"
+    "Hatchson",
+    "slips",
+    "ddarkk"
+    
   ],
   "consoleStatuses": [
     {
