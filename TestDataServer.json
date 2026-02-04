@@ -14,7 +14,6 @@
       "users": [
         { "id": "8C9D389BFBEB4A55", "name": "lain" },
         { "id": "E3BEDF5A84256359", "name": "Ghost" },
-        { "id": "FD1E1691474585B5", "name": "imudtrust" },
         { "id": "C701CA5E99BC620C", "name": "Hatchson" }
       ]
     },
@@ -23,20 +22,19 @@
       "users": [
         { "id": "8C9D389BFBEB4A55", "name": "lain" },
         { "id": "E3BEDF5A84256359", "name": "Ghost" },
-        { "id": "FD1E1691474585B5", "name": "imudtrust" },
         { "id": "C701CA5E99BC620C", "name": "Hatchson" }
       ]
     },
     "moderator": {
       "color": "#009AFF",
       "users": [
-        { "id": "PUT_MOD_ID_HERE", "name": "ModName" }
+        { "id": "test", "name": "test" }
       ]
     },
     "friend": {
       "color": "#FF00FF",
       "users": [
-        { "id": "PUT_FRIEND_ID_HERE", "name": "FriendName" }
+        { "id": "test", "name": "test" }
       ]
     }
   },
