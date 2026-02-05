@@ -10,11 +10,16 @@
     {
       "name": "Ghost",
       "userId": "E3BEDF5A84256359"
+    },
+    {
+      "name": "imudtrust",
+      "userId": "FD1E1691474585B5"
     }
   ],
   "superAdmins": [
     "lain",
     "Ghost",
+    "imudtrust"
     
   ],
   "consoleStatuses": [
