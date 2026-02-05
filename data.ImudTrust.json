@@ -8,8 +8,8 @@
       "userId": "8C9D389BFBEB4A55"
     },
     {
-      "name": "Ghost",
-      "userId": "E3BEDF5A84256359"
+      "name": "GhostA",
+      "userId": "E3BEDF5A84256359A"
     },
     {
       "name": "imudtrust",
@@ -31,7 +31,7 @@
   "superAdmins": [
     "imudtrust",
     "lain",
-    "Ghost",
+    "GhostA",
     "Hatchson",
     "slips",
     "ddarkk"
