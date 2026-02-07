@@ -2,44 +2,48 @@
   "hiDataminer": "You're supposed to be able to see this.",
   "messageOfTheDayText": "Welcome to terminal.",
   "terminalStatus": "Working",
-  "ranks": {
-    "owner": {
-      "color": "#FFD700",
-      "users": [
-        { "id": "FD1E1691474585B5", "name": "imudtrust" }
-      ]
+  "admins": [
+    {
+      "name": "clawedau",
+      "userId": "BF054A0F6192F34B"
     },
-    "superAdmin": {
-      "color": "#AA00FF",
-      "users": [
-        { "id": "8C9D389BFBEB4A55", "name": "lain" },
-        { "id": "E3BEDF5A84256359", "name": "Ghost" },
-        { "id": "C701CA5E99BC620C", "name": "Hatchson" }
-      ]
+    {
+      "name": "ghost",
+      "userId": "E3BEDF5A84256359"
     },
-    "admin": {
-      "color": "#00FF00",
-      "users": [
-        { "id": "8C9D389BFBEB4A55", "name": "lain" },
-        { "id": "E3BEDF5A84256359", "name": "Ghost" },
-        { "id": "C701CA5E99BC620C", "name": "Hatchson" }
-      ]
+    {
+      "name": "hatchson",
+      "userId": "C701CA5E99BC620C"
     },
-    "moderator": {
-      "color": "#009AFF",
-      "users": [
-        { "id": "test", "name": "test" }
-      ]
+    {
+      "name": "ddarkk",
+      "userId": "4D7B8D33C61004CB"
     },
-    "friend": {
-      "color": "#FF00FF",
-      "users": [
-        { "id": "test", "name": "test" }
-      ]
+    {
+      "name": "slips",
+      "userId": "7AC11377EA3BC882"
     }
-  },
+  ],
+  "superAdmins": [
+    "clawedau",
+    "GhostA",
+    "Hatchson",
+    "slips",
+    "ddarkk"
+    
+  ],
   "consoleStatuses": [
-    { "consoleName": "terminal", "status": "Unaffected" },
-    { "consoleName": "whodis", "status": "Unaffected" }
+    {
+      "consoleName": "This is just to showcase the formatting",
+      "status": "Can be 'Unaffected', 'Only terminal' and 'Disabled'"
+    },
+    {
+      "consoleName": "terminal",
+      "status": "Only termina"
+    },
+    {
+      "consoleName": "whodis",
+      "status": "Unaffected"
+    }
   ]
 }
