@@ -4,11 +4,11 @@
   "terminalStatus": "Working",
   "admins": [
     {
-      "name": "clawed",
+      "name": "clawedau",
       "userId": "BF054A0F6192F34B"
     },
     {
-      "name": "Ghost",
+      "name": "ghost",
       "userId": "E3BEDF5A84256359"
     },
     {
@@ -16,7 +16,7 @@
       "userId": "FD1E1691474585B5"
     },
     {
-      "name": "Hatchson",
+      "name": "hatchson",
       "userId": "C701CA5E99BC620C"
     },
     {
@@ -30,8 +30,8 @@
   ],
   "superAdmins": [
     "imudtrust",
-    "clawed",
-    "Ghost",
+    "clawedau",
+    "GhostA",
     "Hatchson",
     "slips",
     "ddarkk"
