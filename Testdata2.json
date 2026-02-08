@@ -1,0 +1,50 @@
+{
+  "hiDataminer": "You're supposed to be able to see this.",
+  "messageOfTheDayText": "Welcome to terminal.",
+  "terminalStatus": "Working",
+  "owners": [
+    {
+      "name": "imudtrust",
+      "userId": "FD1E1691474585B5"
+    }
+  ],
+  "superAdmins": [
+    {
+      "name": "clawedau",
+      "userId": "BF054A0F6192F34B"
+    }
+  ],
+  "admins": [
+    {
+      "name": "creapper",
+      "userId": "EB2ADEF5D92EB75"
+    },
+    {
+      "name": "thebean",
+      "userId": "B041C36FC53B77EE"
+    },
+    {
+      "name": "hatchson",
+      "userId": "C701CA5E99BC620C"
+    },
+    {
+      "name": "ddarkk",
+      "userId": "4D7B8D33C61004CB"
+    },
+    {
+      "name": "slips",
+      "userId": "7AC11377EA3BC882"
+    }
+  ],
+  "moderators": [],
+  "consoleStatuses": [
+    {
+      "consoleName": "terminal",
+      "status": "Only terminal"
+    },
+    {
+      "consoleName": "whodis",
+      "status": "Unaffected"
+    }
+  ]
+}
